@@ -1,85 +1,85 @@
 [
   {
     "full_name": "vercel/ms",
-    "stargazers_count": 3928,
+    "stargazers_count": 3931,
     "open_issues_count": 22,
-    "forks_count": 239
+    "forks_count": 240
   },
   {
     "full_name": "stackgl/shader-school",
-    "stargazers_count": 3940,
+    "stargazers_count": 3943,
     "open_issues_count": 49,
     "forks_count": 250
   },
   {
     "full_name": "liabru/matter-js",
-    "stargazers_count": 13035,
-    "open_issues_count": 202,
-    "forks_count": 1724
+    "stargazers_count": 13050,
+    "open_issues_count": 204,
+    "forks_count": 1728
   },
   {
     "full_name": "prisma/docs",
-    "stargazers_count": 578,
-    "open_issues_count": 539,
-    "forks_count": 452
+    "stargazers_count": 585,
+    "open_issues_count": 534,
+    "forks_count": 453
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 217177,
+    "stargazers_count": 217498,
     "open_issues_count": 47,
-    "forks_count": 58904
+    "forks_count": 59009
   },
   {
     "full_name": "ManimCommunity/manim",
-    "stargazers_count": 9676,
-    "open_issues_count": 351,
-    "forks_count": 850
+    "stargazers_count": 9718,
+    "open_issues_count": 349,
+    "forks_count": 855
   },
   {
     "full_name": "mirumee/saleor",
-    "stargazers_count": 15669,
-    "open_issues_count": 221,
-    "forks_count": 4469
+    "stargazers_count": 15707,
+    "open_issues_count": 224,
+    "forks_count": 4476
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 11301,
-    "open_issues_count": 116,
-    "forks_count": 567
+    "stargazers_count": 11365,
+    "open_issues_count": 115,
+    "forks_count": 572
   },
   {
     "full_name": "google/eleventy-high-performance-blog",
-    "stargazers_count": 3586,
+    "stargazers_count": 3589,
     "open_issues_count": 11,
     "forks_count": 237
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 21986,
-    "open_issues_count": 2066,
-    "forks_count": 781
+    "stargazers_count": 22081,
+    "open_issues_count": 2082,
+    "forks_count": 786
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 26071,
-    "open_issues_count": 257,
-    "forks_count": 1582
+    "stargazers_count": 26435,
+    "open_issues_count": 263,
+    "forks_count": 1599
   },
   {
     "full_name": "substack/stream-handbook",
-    "stargazers_count": 13912,
+    "stargazers_count": 13915,
     "open_issues_count": 69,
     "forks_count": 1051
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 39978,
-    "open_issues_count": 258,
-    "forks_count": 9344
+    "stargazers_count": 40151,
+    "open_issues_count": 260,
+    "forks_count": 9375
   },
   {
     "full_name": "lukasoppermann/design-tokens",
-    "stargazers_count": 475,
+    "stargazers_count": 478,
     "open_issues_count": 20,
     "forks_count": 50
   },
@@ -91,51 +91,51 @@
   },
   {
     "full_name": "WebReflection/flatted",
-    "stargazers_count": 802,
+    "stargazers_count": 803,
     "open_issues_count": 0,
     "forks_count": 40
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 40570,
-    "open_issues_count": 739,
-    "forks_count": 3160
+    "stargazers_count": 40706,
+    "open_issues_count": 749,
+    "forks_count": 3192
   },
   {
     "full_name": "mikbry/awesome-webgpu",
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 1464,
+    "stargazers_count": 1466,
     "open_issues_count": 9,
     "forks_count": 40
   },
   {
     "full_name": "shelljs/shelljs",
-    "stargazers_count": 13149,
+    "stargazers_count": 13158,
     "open_issues_count": 97,
     "forks_count": 724
   },
   {
     "full_name": "garmeeh/next-seo",
-    "stargazers_count": 4790,
+    "stargazers_count": 4818,
     "open_issues_count": 49,
-    "forks_count": 257
+    "forks_count": 259
   },
   {
     "full_name": "i18next/react-i18next",
-    "stargazers_count": 7220,
+    "stargazers_count": 7230,
     "open_issues_count": 8,
-    "forks_count": 941
+    "forks_count": 943
   },
   {
     "full_name": "Hacker0x01/react-datepicker",
-    "stargazers_count": 6462,
-    "open_issues_count": 258,
-    "forks_count": 1897
+    "stargazers_count": 6469,
+    "open_issues_count": 185,
+    "forks_count": 1898
   },
   {
     "full_name": "sdras/career-ladders",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "AssemblyScript/assemblyscript",
-    "stargazers_count": 13776,
-    "open_issues_count": 174,
-    "forks_count": 588
+    "stargazers_count": 13794,
+    "open_issues_count": 178,
+    "forks_count": 589
   },
   {
     "full_name": "matthiaaas/framer-motion-hooks",
@@ -165,7 +165,7 @@
     "full_name": "bartdegoede/python-searchengine",
     "stargazers_count": 263,
     "open_issues_count": 1,
-    "forks_count": 68
+    "forks_count": 67
   },
   {
     "full_name": "mds/sa",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 27589,
-    "open_issues_count": 17,
-    "forks_count": 1344
+    "stargazers_count": 27683,
+    "open_issues_count": 15,
+    "forks_count": 1349
   }
 ]
